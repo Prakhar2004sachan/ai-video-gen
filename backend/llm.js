@@ -22,7 +22,7 @@ const aiPrompt = [
   ],
   [
     "human",
-    "Create an animation that shows the differentiation of the function f(x) = x^2. Include the graph of the function, a point on the graph, and the tangent line at a specific x-value (x = 2). Animate the point moving along the curve, the tangent line being drawn, and include labels for the point and tangent line.",
+    "Create a short educational video on Explain the Bubble Sort algorithm in simple terms. Include its working principle, time complexity, and a dry run example using the array [5, 2, 9, 1, 5, 6]. The explanation should be beginner-friendly and highlight how the algorithm compares and swaps elements. Include Python code for the implementation",
   ],
 ];
 
